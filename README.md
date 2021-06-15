@@ -1,2 +1,2 @@
 # Sentiment-Analysis
-Its a text classification which trains a recurrent neural network(RNN) on the IMDB large movie review dataset for sentiment analysis.
+Text classification model which trains a recurrent neural network(RNN) on a large movie review dataset for sentiment analysis.
